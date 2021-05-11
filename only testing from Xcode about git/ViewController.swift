@@ -19,5 +19,7 @@ class ViewController: UIViewController {
     }
 
     let firstChange = "As usual"
+    
+    let fourth = "as usual"
 }
 
